@@ -17,7 +17,7 @@
     * ☕ Java
     * [Adicione outros com seus respectivos ícones, se desejar. Ex: C++ <0xF0><0x9F><0xAA><0x9A>]
 * Ferramentas e tecnologias:
-    * <0xF0><0x9F><0xAA><0x92> Git
+    * 🛠️ Git
     * 🐳 Docker
     * Kubernetes ☸️
     * AWS ☁️
