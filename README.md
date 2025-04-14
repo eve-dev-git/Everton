@@ -13,7 +13,7 @@
 
 * Linguagens de programação:
     * 🐍 Python
-    * <0xF0><0x9F><0x93><0x8A> JavaScript
+    * JavaScript, HTML, e CSS
     * ☕ Java
     * [Adicione outros com seus respectivos ícones, se desejar. Ex: C++ <0xF0><0x9F><0xAA><0x9A>]
 * Ferramentas e tecnologias:
